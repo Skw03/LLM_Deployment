@@ -92,7 +92,7 @@ Large language model deployment.
 
 ![Image](https://github.com/user-attachments/assets/035e5ff9-d72a-41b5-bfa9-57b6e5c36bf1)
 
-![image-20250612234059653](C:\Users\sunka\AppData\Roaming\Typora\typora-user-images\image-20250612234059653.png)
+![Image](https://github.com/user-attachments/assets/4ba734bb-b64a-45b4-a95b-263fffbbd87f)
 
 
 
