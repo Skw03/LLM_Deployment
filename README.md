@@ -153,7 +153,7 @@ Large language model deployment.
   python_run_chatglm_cpu.py		#运行智谱Chatglm3-6B
   ```
 
-  ![image-20250612235453872](C:\Users\sunka\AppData\Roaming\Typora\typora-user-images\image-20250612235453872.png)
+ ![Image](https://github.com/user-attachments/assets/bf8d3e32-9ac1-4bdc-b5d7-78cea00b441c)
 
 ![Image](https://github.com/user-attachments/assets/b413b402-6934-44a9-8e68-518fa53c3139)
 ## 大语言模型[智谱 ChatGLM3-6B](https://www.modelscope.cn/models/ZhipuAI/chatglm3-6b/summary)
