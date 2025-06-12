@@ -155,8 +155,7 @@ Large language model deployment.
 
   ![image-20250612235453872](C:\Users\sunka\AppData\Roaming\Typora\typora-user-images\image-20250612235453872.png)
 
-  ![image-20250612235508105](C:\Users\sunka\AppData\Roaming\Typora\typora-user-images\image-20250612235508105.png)
-
+![Image](https://github.com/user-attachments/assets/b413b402-6934-44a9-8e68-518fa53c3139)
 ## 大语言模型[智谱 ChatGLM3-6B](https://www.modelscope.cn/models/ZhipuAI/chatglm3-6b/summary)
 
 * 使用脚本得到回答
