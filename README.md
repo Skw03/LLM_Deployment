@@ -92,7 +92,7 @@ Large language model deployment.
 
 ![Image](https://github.com/user-attachments/assets/035e5ff9-d72a-41b5-bfa9-57b6e5c36bf1)
 
-![Image](https://github.com/user-attachments/assets/4ba734bb-b64a-45b4-a95b-263fffbbd87f)
+![Image](https://github.com/user-attachments/assets/a98c040a-82bf-4dcc-b9c8-29a37058c89b)
 
 
 
