@@ -14,7 +14,7 @@ Large language model deployment.
 
 * 在[魔搭社区](https://www.modelscope.cn)启动 PAI-DSW CPU 环境
 
-  ![image-20250612232048974](C:\Users\sunka\AppData\Roaming\Typora\typora-user-images\image-20250612232048974.png)
+![Image](https://github.com/user-attachments/assets/c603a763-f4c1-43d6-b642-c9516b21656b)
 
 * 进入到路径 `/opt/conda/envs`，通常这里会存放 `conda`环境的文件夹。但此时若未安装`conda`，这个目录可能不存在，因此会报错
 
