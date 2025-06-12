@@ -155,7 +155,7 @@ Large language model deployment.
 
  ![Image](https://github.com/user-attachments/assets/bf8d3e32-9ac1-4bdc-b5d7-78cea00b441c)
 
-![Image](https://github.com/user-attachments/assets/b413b402-6934-44a9-8e68-518fa53c3139)
+![Image](https://github.com/user-attachments/assets/20d85fc1-6b95-402c-a65d-7d7e089a6038)
 ## 大语言模型[智谱 ChatGLM3-6B](https://www.modelscope.cn/models/ZhipuAI/chatglm3-6b/summary)
 
 * 使用脚本得到回答
