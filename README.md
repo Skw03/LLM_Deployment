@@ -204,11 +204,11 @@ Large language model deployment.
 
 ![Image](https://github.com/user-attachments/assets/dd1f59df-77c8-415f-a8b0-a4e62cc8b566)
 
-![image-20250613002022906](C:\Users\sunka\AppData\Roaming\Typora\typora-user-images\image-20250613002022906.png)
+![Image](https://github.com/user-attachments/assets/39c412e3-66f3-41f5-8dc4-9dcf98e8bbbc)
 
-![image-20250613002027951](C:\Users\sunka\AppData\Roaming\Typora\typora-user-images\image-20250613002027951.png)
+![Image](https://github.com/user-attachments/assets/1e6956ec-0a2c-45e8-a9e1-1ec082fae49f)
 
-![image-20250613002034684](C:\Users\sunka\AppData\Roaming\Typora\typora-user-images\image-20250613002034684.png)
+![Image](https://github.com/user-attachments/assets/8599f97a-398c-45b1-b978-bbe66d460234)
 
 ## 部署大语言模型[通义千问 Qwen-7B-Chat](https://www.modelscope.cn/models/qwen/Qwen-7B-Chat/summary)
 
