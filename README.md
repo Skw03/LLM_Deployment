@@ -258,15 +258,15 @@ Large language model deployment.
   5.我不好意思：表示因为自己的行为或言语而感到尴尬或不好意思。
   ```
 
-![image-20250613003427609](C:\Users\sunka\AppData\Roaming\Typora\typora-user-images\image-20250613003427609.png)
+![Image](https://github.com/user-attachments/assets/840703b9-ec4f-49a4-aa34-c6c8b8ccd42a)
 
-![image-20250613003434057](C:\Users\sunka\AppData\Roaming\Typora\typora-user-images\image-20250613003434057.png)
+![Image](https://github.com/user-attachments/assets/6b43520e-0dd8-4e42-9765-da1da664614f)
 
-![image-20250613003439877](C:\Users\sunka\AppData\Roaming\Typora\typora-user-images\image-20250613003439877.png)
+![Image](https://github.com/user-attachments/assets/fab384d5-9e2f-42e7-b5b6-6c531814ec21)
 
-![image-20250613003444989](C:\Users\sunka\AppData\Roaming\Typora\typora-user-images\image-20250613003444989.png)
+![Image](https://github.com/user-attachments/assets/ebe4dfa0-e9da-4121-9afd-736d938afaff)
 
-![image-20250613003449882](C:\Users\sunka\AppData\Roaming\Typora\typora-user-images\image-20250613003449882.png)
+![Image](https://github.com/user-attachments/assets/b0fe87f0-dfc5-4fad-b7c6-a58ae1521358)
 
 ## 大语言模型横向比对分析
 
