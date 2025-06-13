@@ -200,7 +200,7 @@ Large language model deployment.
   具体来说，在对话中，领导使用'意思'时，可能是在询问小明话语中隐含的意思，或者是在批评小明的表达方式不够清晰明确。而小明在使用'意思'时，可能是在试图表达自己的观点或暗示某种含义，或者是在谦虚地表示自己的表达方式不够重要。
   ```
 
-![image-20250613002009450](C:\Users\sunka\AppData\Roaming\Typora\typora-user-images\image-20250613002009450.png)
+![Image](https://github.com/user-attachments/assets/d2eb14c8-d897-4728-b865-010f3a57c001)
 
 ![image-20250613002016935](C:\Users\sunka\AppData\Roaming\Typora\typora-user-images\image-20250613002016935.png)
 
